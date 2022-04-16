@@ -1,0 +1,9 @@
+---
+- name: Deploy docker img
+  hosts: localhost
+  remote_user: root
+  tasks:
+    - name: Pull dev-cal image
+      docker_image:
+        name: teeyagundi/dev-cal
+        source: pull
