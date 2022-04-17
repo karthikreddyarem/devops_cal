@@ -16,111 +16,127 @@ public class calculator {
     public static void main(String[] args) {
         calculator cal = new calculator();
         Scanner scanner = new Scanner(System.in);
-        double num1, num2;
+        double input1, input2;
 
         do{
-            System.out.println("Calcuator");
-            System.out.println("Available functions\n1 - Square Root of x\n2 - Factorial of x\n3 - Natural Log of x\n4 - x Power b\nAny other number to exit");
-            int fun;
+            System.out.println("Scientific Calculator");
+            System.out.println("Possible operations -- code\nb times a  -- 1\nRoot of a num -- 2\nLog of a num  -- 3\nFactorial of num  -- 4\nAdd two num -- 5\n exit -- 6");
+            int operation;
 
             try{
-                fun = scanner.nextInt();
+                operation = scanner.nextInt();
+            } catch (InputMismatchException error) {
+                return;
+            }
+            if (operation < 1 || operation > 5){
+                return;
+            }
+            try{
+                System.out.println("Give a possible integer");
+                input1 = scanner.nextDouble();
             } catch (InputMismatchException error) {
                 return;
             }
 
-            if (fun < 1 || fun > 4){
-                return;
-            }
-
-            try{
-                System.out.println("Enter x");
-                num1 = scanner.nextDouble();
-            } catch (InputMismatchException error) {
-                return;
-            }
-
-            switch(fun){
+            switch(operation){
                 case 1:
-                    System.out.println("Square root of x = " + calculator.sqt(num1));
-                    break;
-                case 2:
-                    System.out.println("Factorial of x = " + calculator.factorial(num1));
-                    break;
-                case 3:
-                    System.out.println("Natural log of x = " + calculator.log(num1));
-                    break;
-                case 4:
                     try {
-                        System.out.print("Enter b");
-                        num2 = scanner.nextDouble();
+                        System.out.print("Give second input");
+                        input2 = scanner.nextDouble();
                     } catch (InputMismatchException error){
                         return;
                     }
-                    System.out.println("x power b = " + calculator.power(num1, num2));
+                    System.out.println("b times a = " + calculator.times(input1, input2));
+                    break;
+
+                case 2:
+                    System.out.println("Square root of x = " + calculator.sqt(input1));
+                    break;
+
+                case 3:
+                    System.out.println("Natural log of x = " + calculator.log(input1));
+                    break;
+                case 4:
+                    System.out.println("Factorial of x = " + calculator.factorial(input1));
+                    break;
+                case 5:
+                    try{
+                        System.out.print("Give second number");
+                        input2 = scanner.nextDouble();
+                    } catch (InputMismatchException error){
+                        return;
+                    }
+                    System.out.println("a + b = " + calculator.sum(input1,input2));
                     break;
                 default:
-                    System.out.print("Closing");
+                    System.out.print("Thank You");
                     return;
             }
         }while(true);
     }
 
+    public static double sum(double a,double b){
+        logger.info("sum of -" + a +"," + b);
+        double result = a+b;
+        logger.info("result = " + result);
+        return result;
+    }
 
-    public static double sqt(double i){
-        double temp = 0;
+    public static double times(double a, double b){
+        logger.info("power of " + a + " times " + b );
+        double result = Math.pow(a,b);
+        logger.info("RESULT= " + result);
+        return result;
+    }
+
+    public static double sqt(double num){
+        double result = 0;
         try {
-            logger.info("[SQRT] - " + i);
-            if (i < 0) {
-                temp = Double.NaN;
-                throw new ArithmeticException("Cannot find square root of -ve numbers");
+            logger.info("square root of - " + num);
+            if (num < 0) {
+                result = Double.NaN;
+                throw new ArithmeticException("square root of negative numbers is not supported");
             } else {
-                temp = Math.sqrt(i);
+                result = Math.sqrt(num);
             }
         } catch (ArithmeticException error){
-            logger.error("[EXCEPTION - SQRT] - Cannot find sqrt of -ve numbers");
+            logger.error(" square root of negative numbers is not supported");
         } finally {
-            logger.info("[RESULT - SQRT] = " + temp);
+            logger.info("result = " + result);
         }
-        return temp;
+        return result;
     }
 
-    public static double factorial(double i){
-        logger.info("[FACTORIAL] - " + i );
-        double temp = 1.0;
-        for (int t = 1; t<= i; t++){
-            temp *= t;
+    public static double factorial(double num){
+        logger.info("factorial of " + num );
+        double result = 1.0;
+        for (int t = 1; t<= num; t++){
+            result *= t;
         }
-        logger.info("[RESULT - FACTORIAL] = " + temp);
-        return temp;
+        logger.info("result = " + result);
+        return result;
     }
-    public static double log(double i){
-        Double temp = 0.0;
+    public static double log(double num){
+        Double result = 0.0;
         try {
-            logger.info("[LOG] - " + i);
-            if (i < 0){
-                temp = Double.NaN;
-                throw new ArithmeticException("Cannot find log of negative numbers");
+            logger.info("log of - " + num);
+            if (num < 0){
+                result = Double.NaN;
+                throw new ArithmeticException("log of negative numbers is not supported");
             }
-            else if (i == 0){
-                temp = Double.NEGATIVE_INFINITY;
-                throw new ArithmeticException("Log of 0 is negative infinity");
+            else if (num == 0){
+                result = Double.NEGATIVE_INFINITY;
+                throw new ArithmeticException("Log of 0 is not defined");
             }
             else {
-                temp = Math.log(i);
+                result = Math.log(num);
             }
         } catch (ArithmeticException error){
-            logger.error("[EXCEPTION - log] - inout is less than or equal to zero");
+            logger.error("Inout is not in range");
         } finally {
-            logger.info("[RESULT - LOG] = " + temp);
+            logger.info("result = " + result);
         }
-        return temp;
-    }
-    public static double power(double i, double j){
-        logger.info("[POWER] - " + i + ", " + j );
-        double temp = Math.pow(i,j);
-        logger.info("[RESULT - POWER] = " + temp);
-        return temp;
+        return result;
     }
 
 }
