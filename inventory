@@ -1,0 +1,2 @@
+[suchith]
+172.16.144.254 ansible_ssh_pass=suchith2000 ansible_user=suchit

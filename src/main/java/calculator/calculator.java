@@ -45,10 +45,10 @@ public class calculator {
                     System.out.println("Square root of x = " + calculator.sqt(num1));
                     break;
                 case 2:
-                    System.out.println("Factorial of x =" + calculator.factorial(num1));
+                    System.out.println("Factorial of x = " + calculator.factorial(num1));
                     break;
                 case 3:
-                    System.out.println("Natural log of x =" + calculator.log(num1));
+                    System.out.println("Natural log of x = " + calculator.log(num1));
                     break;
                 case 4:
                     try {

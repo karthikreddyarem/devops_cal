@@ -1,7 +1,6 @@
 ---
 - name: Deploy docker img
-  hosts: localhost
-  remote_user: root
+  hosts: all
   tasks:
     - name: Pull dev-cal image
       docker_image:
