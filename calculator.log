@@ -1,484 +1,124 @@
-15/04/2022:15;23;52 122 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 6.0
-15/04/2022:15;23;52 126 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 720.0
-15/04/2022:15;23;52 126 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-15/04/2022:15;23;52 126 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-15/04/2022:15;23;52 127 [calculator.java] [INFO] calculator.calculator [SQRT] - 4.0
-15/04/2022:15;23;52 127 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.0
-15/04/2022:15;23;52 128 [calculator.java] [INFO] calculator.calculator [SQRT] - 3.5
-15/04/2022:15;23;52 128 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 1.8708286933869707
-15/04/2022:15;23;52 128 [calculator.java] [INFO] calculator.calculator [SQRT] - 5.0
-15/04/2022:15;23;52 128 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.23606797749979
-15/04/2022:15;23;52 129 [calculator.java] [INFO] calculator.calculator [SQRT] - 30.0
-15/04/2022:15;23;52 129 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 5.477225575051661
-15/04/2022:15;23;52 129 [calculator.java] [INFO] calculator.calculator [LOG] - 5.0
-15/04/2022:15;23;52 130 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 1.6094379124341003
-15/04/2022:15;23;52 130 [calculator.java] [INFO] calculator.calculator [LOG] - 57.0
-15/04/2022:15;23;52 130 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 4.04305126783455
-15/04/2022:15;23;52 131 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-15/04/2022:15;23;52 131 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-15/04/2022:15;23;52 132 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 2.0
-15/04/2022:15;23;52 132 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 2.0
-15/04/2022:15;23;52 132 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-15/04/2022:15;23;52 133 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-15/04/2022:15;23;52 133 [calculator.java] [INFO] calculator.calculator [POWER] - 1.0, 0.0
-15/04/2022:15;23;52 133 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-15/04/2022:15;23;52 134 [calculator.java] [INFO] calculator.calculator [POWER] - -2.3, 3.0
-15/04/2022:15;23;52 134 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = -12.166999999999998
-15/04/2022:15;23;52 134 [calculator.java] [INFO] calculator.calculator [POWER] - -1.0, 2.0
-15/04/2022:15;23;52 134 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-15/04/2022:15;23;52 135 [calculator.java] [INFO] calculator.calculator [POWER] - 2.0, 3.0
-15/04/2022:15;23;52 135 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 8.0
-15/04/2022:15;23;52 138 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.0
-15/04/2022:15;23;52 138 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 12.166999999999998
-15/04/2022:15;23;52 138 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.5
-15/04/2022:15;23;52 138 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 18.45216910555504
-15/04/2022:15;23;52 139 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-15/04/2022:15;23;52 139 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-15/04/2022:15;23;52 139 [calculator.java] [INFO] calculator.calculator [LOG] - 10.0
-15/04/2022:15;23;52 140 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 2.302585092994046
-16/04/2022:02;23;36 898 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 6.0
-16/04/2022:02;23;36 902 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 720.0
-16/04/2022:02;23;36 902 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-16/04/2022:02;23;36 902 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-16/04/2022:02;23;36 903 [calculator.java] [INFO] calculator.calculator [SQRT] - 4.0
-16/04/2022:02;23;36 904 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.0
-16/04/2022:02;23;36 904 [calculator.java] [INFO] calculator.calculator [SQRT] - 3.5
-16/04/2022:02;23;36 904 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 1.8708286933869707
-16/04/2022:02;23;36 905 [calculator.java] [INFO] calculator.calculator [SQRT] - 5.0
-16/04/2022:02;23;36 905 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.23606797749979
-16/04/2022:02;23;36 905 [calculator.java] [INFO] calculator.calculator [SQRT] - 30.0
-16/04/2022:02;23;36 905 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 5.477225575051661
-16/04/2022:02;23;36 906 [calculator.java] [INFO] calculator.calculator [LOG] - 5.0
-16/04/2022:02;23;36 906 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 1.6094379124341003
-16/04/2022:02;23;36 907 [calculator.java] [INFO] calculator.calculator [LOG] - 57.0
-16/04/2022:02;23;36 907 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 4.04305126783455
-16/04/2022:02;23;36 907 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-16/04/2022:02;23;36 907 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-16/04/2022:02;23;36 908 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 2.0
-16/04/2022:02;23;36 908 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 2.0
-16/04/2022:02;23;36 908 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-16/04/2022:02;23;36 909 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-16/04/2022:02;23;36 909 [calculator.java] [INFO] calculator.calculator [POWER] - 1.0, 0.0
-16/04/2022:02;23;36 910 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-16/04/2022:02;23;36 910 [calculator.java] [INFO] calculator.calculator [POWER] - -2.3, 3.0
-16/04/2022:02;23;36 910 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = -12.166999999999998
-16/04/2022:02;23;36 911 [calculator.java] [INFO] calculator.calculator [POWER] - -1.0, 2.0
-16/04/2022:02;23;36 911 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-16/04/2022:02;23;36 911 [calculator.java] [INFO] calculator.calculator [POWER] - 2.0, 3.0
-16/04/2022:02;23;36 911 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 8.0
-16/04/2022:02;23;36 912 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.0
-16/04/2022:02;23;36 912 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 12.166999999999998
-16/04/2022:02;23;36 912 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.5
-16/04/2022:02;23;36 913 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 18.45216910555504
-16/04/2022:02;23;36 913 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-16/04/2022:02;23;36 913 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-16/04/2022:02;23;36 914 [calculator.java] [INFO] calculator.calculator [LOG] - 10.0
-16/04/2022:02;23;36 914 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 2.302585092994046
-16/04/2022:02;23;59 326 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 6.0
-16/04/2022:02;23;59 328 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 720.0
-16/04/2022:02;23;59 328 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-16/04/2022:02;23;59 329 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-16/04/2022:02;23;59 330 [calculator.java] [INFO] calculator.calculator [SQRT] - 4.0
-16/04/2022:02;23;59 330 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.0
-16/04/2022:02;23;59 330 [calculator.java] [INFO] calculator.calculator [SQRT] - 3.5
-16/04/2022:02;23;59 331 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 1.8708286933869707
-16/04/2022:02;23;59 331 [calculator.java] [INFO] calculator.calculator [SQRT] - 5.0
-16/04/2022:02;23;59 331 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.23606797749979
-16/04/2022:02;23;59 332 [calculator.java] [INFO] calculator.calculator [SQRT] - 30.0
-16/04/2022:02;23;59 332 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 5.477225575051661
-16/04/2022:02;23;59 332 [calculator.java] [INFO] calculator.calculator [LOG] - 5.0
-16/04/2022:02;23;59 333 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 1.6094379124341003
-16/04/2022:02;23;59 333 [calculator.java] [INFO] calculator.calculator [LOG] - 57.0
-16/04/2022:02;23;59 333 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 4.04305126783455
-16/04/2022:02;23;59 333 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-16/04/2022:02;23;59 334 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-16/04/2022:02;23;59 334 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 2.0
-16/04/2022:02;23;59 334 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 2.0
-16/04/2022:02;23;59 335 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-16/04/2022:02;23;59 335 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-16/04/2022:02;23;59 336 [calculator.java] [INFO] calculator.calculator [POWER] - 1.0, 0.0
-16/04/2022:02;23;59 336 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-16/04/2022:02;23;59 336 [calculator.java] [INFO] calculator.calculator [POWER] - -2.3, 3.0
-16/04/2022:02;23;59 337 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = -12.166999999999998
-16/04/2022:02;23;59 337 [calculator.java] [INFO] calculator.calculator [POWER] - -1.0, 2.0
-16/04/2022:02;23;59 337 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-16/04/2022:02;23;59 338 [calculator.java] [INFO] calculator.calculator [POWER] - 2.0, 3.0
-16/04/2022:02;23;59 338 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 8.0
-16/04/2022:02;23;59 339 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.0
-16/04/2022:02;23;59 339 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 12.166999999999998
-16/04/2022:02;23;59 339 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.5
-16/04/2022:02;23;59 340 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 18.45216910555504
-16/04/2022:02;23;59 340 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-16/04/2022:02;23;59 340 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-16/04/2022:02;23;59 340 [calculator.java] [INFO] calculator.calculator [LOG] - 10.0
-16/04/2022:02;23;59 341 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 2.302585092994046
-16/04/2022:10;23;04 991 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 6.0
-16/04/2022:10;23;04 995 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 720.0
-16/04/2022:10;23;04 996 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-16/04/2022:10;23;04 996 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-16/04/2022:10;23;04 997 [calculator.java] [INFO] calculator.calculator [SQRT] - 4.0
-16/04/2022:10;23;04 997 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.0
-16/04/2022:10;23;04 998 [calculator.java] [INFO] calculator.calculator [SQRT] - 3.5
-16/04/2022:10;23;04 998 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 1.8708286933869707
-16/04/2022:10;23;04 998 [calculator.java] [INFO] calculator.calculator [SQRT] - 5.0
-16/04/2022:10;23;04 999 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.23606797749979
-16/04/2022:10;23;04 999 [calculator.java] [INFO] calculator.calculator [SQRT] - 30.0
-16/04/2022:10;23;04 999 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 5.477225575051661
-16/04/2022:10;23;05 000 [calculator.java] [INFO] calculator.calculator [LOG] - 5.0
-16/04/2022:10;23;05 000 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 1.6094379124341003
-16/04/2022:10;23;05 000 [calculator.java] [INFO] calculator.calculator [LOG] - 57.0
-16/04/2022:10;23;05 001 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 4.04305126783455
-16/04/2022:10;23;05 001 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-16/04/2022:10;23;05 001 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-16/04/2022:10;23;05 002 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 2.0
-16/04/2022:10;23;05 002 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 2.0
-16/04/2022:10;23;05 002 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-16/04/2022:10;23;05 002 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-16/04/2022:10;23;05 003 [calculator.java] [INFO] calculator.calculator [POWER] - 1.0, 0.0
-16/04/2022:10;23;05 003 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-16/04/2022:10;23;05 003 [calculator.java] [INFO] calculator.calculator [POWER] - -2.3, 3.0
-16/04/2022:10;23;05 003 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = -12.166999999999998
-16/04/2022:10;23;05 004 [calculator.java] [INFO] calculator.calculator [POWER] - -1.0, 2.0
-16/04/2022:10;23;05 004 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-16/04/2022:10;23;05 004 [calculator.java] [INFO] calculator.calculator [POWER] - 2.0, 3.0
-16/04/2022:10;23;05 005 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 8.0
-16/04/2022:10;23;05 005 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.0
-16/04/2022:10;23;05 005 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 12.166999999999998
-16/04/2022:10;23;05 005 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.5
-16/04/2022:10;23;05 005 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 18.45216910555504
-16/04/2022:10;23;05 006 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-16/04/2022:10;23;05 006 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-16/04/2022:10;23;05 006 [calculator.java] [INFO] calculator.calculator [LOG] - 10.0
-16/04/2022:10;23;05 006 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 2.302585092994046
-17/04/2022:03;07;49 343 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 6.0
-17/04/2022:03;07;49 347 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 720.0
-17/04/2022:03;07;49 347 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-17/04/2022:03;07;49 348 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-17/04/2022:03;07;49 349 [calculator.java] [INFO] calculator.calculator [SQRT] - 4.0
-17/04/2022:03;07;49 349 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.0
-17/04/2022:03;07;49 349 [calculator.java] [INFO] calculator.calculator [SQRT] - 3.5
-17/04/2022:03;07;49 350 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 1.8708286933869707
-17/04/2022:03;07;49 350 [calculator.java] [INFO] calculator.calculator [SQRT] - 5.0
-17/04/2022:03;07;49 350 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.23606797749979
-17/04/2022:03;07;49 350 [calculator.java] [INFO] calculator.calculator [SQRT] - 30.0
-17/04/2022:03;07;49 351 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 5.477225575051661
-17/04/2022:03;07;49 351 [calculator.java] [INFO] calculator.calculator [LOG] - 5.0
-17/04/2022:03;07;49 351 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 1.6094379124341003
-17/04/2022:03;07;49 352 [calculator.java] [INFO] calculator.calculator [LOG] - 57.0
-17/04/2022:03;07;49 352 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 4.04305126783455
-17/04/2022:03;07;49 352 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-17/04/2022:03;07;49 353 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-17/04/2022:03;07;49 353 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 2.0
-17/04/2022:03;07;49 354 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 2.0
-17/04/2022:03;07;49 354 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-17/04/2022:03;07;49 354 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-17/04/2022:03;07;49 355 [calculator.java] [INFO] calculator.calculator [POWER] - 1.0, 0.0
-17/04/2022:03;07;49 356 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-17/04/2022:03;07;49 356 [calculator.java] [INFO] calculator.calculator [POWER] - -2.3, 3.0
-17/04/2022:03;07;49 356 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = -12.166999999999998
-17/04/2022:03;07;49 357 [calculator.java] [INFO] calculator.calculator [POWER] - -1.0, 2.0
-17/04/2022:03;07;49 357 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-17/04/2022:03;07;49 358 [calculator.java] [INFO] calculator.calculator [POWER] - 2.0, 3.0
-17/04/2022:03;07;49 358 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 8.0
-17/04/2022:03;07;49 358 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.0
-17/04/2022:03;07;49 359 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 12.166999999999998
-17/04/2022:03;07;49 359 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.5
-17/04/2022:03;07;49 359 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 18.45216910555504
-17/04/2022:03;07;49 360 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-17/04/2022:03;07;49 360 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-17/04/2022:03;07;49 360 [calculator.java] [INFO] calculator.calculator [LOG] - 10.0
-17/04/2022:03;07;49 361 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 2.302585092994046
-17/04/2022:03;09;08 316 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 6.0
-17/04/2022:03;09;08 318 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 720.0
-17/04/2022:03;09;08 319 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-17/04/2022:03;09;08 319 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-17/04/2022:03;09;08 320 [calculator.java] [INFO] calculator.calculator [SQRT] - 4.0
-17/04/2022:03;09;08 320 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.0
-17/04/2022:03;09;08 321 [calculator.java] [INFO] calculator.calculator [SQRT] - 3.5
-17/04/2022:03;09;08 321 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 1.8708286933869707
-17/04/2022:03;09;08 322 [calculator.java] [INFO] calculator.calculator [SQRT] - 5.0
-17/04/2022:03;09;08 322 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 2.23606797749979
-17/04/2022:03;09;08 322 [calculator.java] [INFO] calculator.calculator [SQRT] - 30.0
-17/04/2022:03;09;08 322 [calculator.java] [INFO] calculator.calculator [RESULT - SQRT] = 5.477225575051661
-17/04/2022:03;09;08 323 [calculator.java] [INFO] calculator.calculator [LOG] - 5.0
-17/04/2022:03;09;08 323 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 1.6094379124341003
-17/04/2022:03;09;08 324 [calculator.java] [INFO] calculator.calculator [LOG] - 57.0
-17/04/2022:03;09;08 324 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 4.04305126783455
-17/04/2022:03;09;08 324 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-17/04/2022:03;09;08 324 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-17/04/2022:03;09;08 325 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 2.0
-17/04/2022:03;09;08 325 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 2.0
-17/04/2022:03;09;08 325 [calculator.java] [INFO] calculator.calculator [FACTORIAL] - 4.0
-17/04/2022:03;09;08 325 [calculator.java] [INFO] calculator.calculator [RESULT - FACTORIAL] = 24.0
-17/04/2022:03;09;08 326 [calculator.java] [INFO] calculator.calculator [POWER] - 1.0, 0.0
-17/04/2022:03;09;08 326 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-17/04/2022:03;09;08 326 [calculator.java] [INFO] calculator.calculator [POWER] - -2.3, 3.0
-17/04/2022:03;09;08 326 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = -12.166999999999998
-17/04/2022:03;09;08 327 [calculator.java] [INFO] calculator.calculator [POWER] - -1.0, 2.0
-17/04/2022:03;09;08 327 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 1.0
-17/04/2022:03;09;08 327 [calculator.java] [INFO] calculator.calculator [POWER] - 2.0, 3.0
-17/04/2022:03;09;08 328 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 8.0
-17/04/2022:03;09;08 328 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.0
-17/04/2022:03;09;08 328 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 12.166999999999998
-17/04/2022:03;09;08 328 [calculator.java] [INFO] calculator.calculator [POWER] - 2.3, 3.5
-17/04/2022:03;09;08 329 [calculator.java] [INFO] calculator.calculator [RESULT - POWER] = 18.45216910555504
-17/04/2022:03;09;08 329 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-17/04/2022:03;09;08 329 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 0.0
-17/04/2022:03;09;08 329 [calculator.java] [INFO] calculator.calculator [LOG] - 10.0
-17/04/2022:03;09;08 329 [calculator.java] [INFO] calculator.calculator [RESULT - LOG] = 2.302585092994046
-17/04/2022:14;15;25 976 [calculator.java] [INFO] calculator.calculator factorial of 6.0
-17/04/2022:14;15;25 980 [calculator.java] [INFO] calculator.calculator result = 720.0
-17/04/2022:14;15;25 980 [calculator.java] [INFO] calculator.calculator factorial of 4.0
-17/04/2022:14;15;25 980 [calculator.java] [INFO] calculator.calculator result = 24.0
-17/04/2022:14;15;25 981 [calculator.java] [INFO] calculator.calculator square root of - 4.0
-17/04/2022:14;15;25 982 [calculator.java] [INFO] calculator.calculator result = 2.0
-17/04/2022:14;15;25 982 [calculator.java] [INFO] calculator.calculator square root of - 3.5
-17/04/2022:14;15;25 982 [calculator.java] [INFO] calculator.calculator result = 1.8708286933869707
-17/04/2022:14;15;25 983 [calculator.java] [INFO] calculator.calculator square root of - 5.0
-17/04/2022:14;15;25 983 [calculator.java] [INFO] calculator.calculator result = 2.23606797749979
-17/04/2022:14;15;25 983 [calculator.java] [INFO] calculator.calculator square root of - 30.0
-17/04/2022:14;15;25 983 [calculator.java] [INFO] calculator.calculator result = 5.477225575051661
-17/04/2022:14;15;25 984 [calculator.java] [INFO] calculator.calculator [LOG] - 5.0
-17/04/2022:14;15;25 984 [calculator.java] [INFO] calculator.calculator result = 1.6094379124341003
-17/04/2022:14;15;25 984 [calculator.java] [INFO] calculator.calculator [LOG] - 57.0
-17/04/2022:14;15;25 984 [calculator.java] [INFO] calculator.calculator result = 4.04305126783455
-17/04/2022:14;15;25 985 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-17/04/2022:14;15;25 985 [calculator.java] [INFO] calculator.calculator result = 0.0
-17/04/2022:14;15;25 985 [calculator.java] [INFO] calculator.calculator factorial of 2.0
-17/04/2022:14;15;25 985 [calculator.java] [INFO] calculator.calculator result = 2.0
-17/04/2022:14;15;25 986 [calculator.java] [INFO] calculator.calculator factorial of 4.0
-17/04/2022:14;15;25 986 [calculator.java] [INFO] calculator.calculator result = 24.0
-17/04/2022:14;15;25 986 [calculator.java] [INFO] calculator.calculator power of 1.0 times 0.0
-17/04/2022:14;15;25 986 [calculator.java] [INFO] calculator.calculator RESULT= 1.0
-17/04/2022:14;15;25 987 [calculator.java] [INFO] calculator.calculator power of -2.3 times 3.0
-17/04/2022:14;15;25 987 [calculator.java] [INFO] calculator.calculator RESULT= -12.166999999999998
-17/04/2022:14;15;25 987 [calculator.java] [INFO] calculator.calculator power of -1.0 times 2.0
-17/04/2022:14;15;25 987 [calculator.java] [INFO] calculator.calculator RESULT= 1.0
-17/04/2022:14;15;25 988 [calculator.java] [INFO] calculator.calculator power of 2.0 times 3.0
-17/04/2022:14;15;25 988 [calculator.java] [INFO] calculator.calculator RESULT= 8.0
-17/04/2022:14;15;25 988 [calculator.java] [INFO] calculator.calculator power of 2.3 times 3.0
-17/04/2022:14;15;25 988 [calculator.java] [INFO] calculator.calculator RESULT= 12.166999999999998
-17/04/2022:14;15;25 988 [calculator.java] [INFO] calculator.calculator power of 2.3 times 3.5
-17/04/2022:14;15;25 989 [calculator.java] [INFO] calculator.calculator RESULT= 18.45216910555504
-17/04/2022:14;15;25 989 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-17/04/2022:14;15;25 989 [calculator.java] [INFO] calculator.calculator result = 0.0
-17/04/2022:14;15;25 989 [calculator.java] [INFO] calculator.calculator [LOG] - 10.0
-17/04/2022:14;15;25 990 [calculator.java] [INFO] calculator.calculator result = 2.302585092994046
-17/04/2022:14;15;36 455 [calculator.java] [INFO] calculator.calculator factorial of 6.0
-17/04/2022:14;15;36 457 [calculator.java] [INFO] calculator.calculator result = 720.0
-17/04/2022:14;15;36 457 [calculator.java] [INFO] calculator.calculator factorial of 4.0
-17/04/2022:14;15;36 458 [calculator.java] [INFO] calculator.calculator result = 24.0
-17/04/2022:14;15;36 458 [calculator.java] [INFO] calculator.calculator square root of - 4.0
-17/04/2022:14;15;36 459 [calculator.java] [INFO] calculator.calculator result = 2.0
-17/04/2022:14;15;36 459 [calculator.java] [INFO] calculator.calculator square root of - 3.5
-17/04/2022:14;15;36 459 [calculator.java] [INFO] calculator.calculator result = 1.8708286933869707
-17/04/2022:14;15;36 460 [calculator.java] [INFO] calculator.calculator square root of - 5.0
-17/04/2022:14;15;36 460 [calculator.java] [INFO] calculator.calculator result = 2.23606797749979
-17/04/2022:14;15;36 460 [calculator.java] [INFO] calculator.calculator square root of - 30.0
-17/04/2022:14;15;36 460 [calculator.java] [INFO] calculator.calculator result = 5.477225575051661
-17/04/2022:14;15;36 461 [calculator.java] [INFO] calculator.calculator [LOG] - 5.0
-17/04/2022:14;15;36 461 [calculator.java] [INFO] calculator.calculator result = 1.6094379124341003
-17/04/2022:14;15;36 461 [calculator.java] [INFO] calculator.calculator [LOG] - 57.0
-17/04/2022:14;15;36 462 [calculator.java] [INFO] calculator.calculator result = 4.04305126783455
-17/04/2022:14;15;36 462 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-17/04/2022:14;15;36 462 [calculator.java] [INFO] calculator.calculator result = 0.0
-17/04/2022:14;15;36 463 [calculator.java] [INFO] calculator.calculator factorial of 2.0
-17/04/2022:14;15;36 463 [calculator.java] [INFO] calculator.calculator result = 2.0
-17/04/2022:14;15;36 463 [calculator.java] [INFO] calculator.calculator factorial of 4.0
-17/04/2022:14;15;36 463 [calculator.java] [INFO] calculator.calculator result = 24.0
-17/04/2022:14;15;36 464 [calculator.java] [INFO] calculator.calculator power of 1.0 times 0.0
-17/04/2022:14;15;36 464 [calculator.java] [INFO] calculator.calculator RESULT= 1.0
-17/04/2022:14;15;36 464 [calculator.java] [INFO] calculator.calculator power of -2.3 times 3.0
-17/04/2022:14;15;36 465 [calculator.java] [INFO] calculator.calculator RESULT= -12.166999999999998
-17/04/2022:14;15;36 465 [calculator.java] [INFO] calculator.calculator power of -1.0 times 2.0
-17/04/2022:14;15;36 465 [calculator.java] [INFO] calculator.calculator RESULT= 1.0
-17/04/2022:14;15;36 465 [calculator.java] [INFO] calculator.calculator power of 2.0 times 3.0
-17/04/2022:14;15;36 466 [calculator.java] [INFO] calculator.calculator RESULT= 8.0
-17/04/2022:14;15;36 466 [calculator.java] [INFO] calculator.calculator power of 2.3 times 3.0
-17/04/2022:14;15;36 466 [calculator.java] [INFO] calculator.calculator RESULT= 12.166999999999998
-17/04/2022:14;15;36 466 [calculator.java] [INFO] calculator.calculator power of 2.3 times 3.5
-17/04/2022:14;15;36 467 [calculator.java] [INFO] calculator.calculator RESULT= 18.45216910555504
-17/04/2022:14;15;36 467 [calculator.java] [INFO] calculator.calculator [LOG] - 1.0
-17/04/2022:14;15;36 467 [calculator.java] [INFO] calculator.calculator result = 0.0
-17/04/2022:14;15;36 467 [calculator.java] [INFO] calculator.calculator [LOG] - 10.0
-17/04/2022:14;15;36 468 [calculator.java] [INFO] calculator.calculator result = 2.302585092994046
-17/04/2022:14;48;30 438 [calculator.java] [INFO] calculator.calculator power of 1.0 times 0.0
-17/04/2022:14;48;30 440 [calculator.java] [INFO] calculator.calculator RESULT= 1.0
-17/04/2022:14;48;30 441 [calculator.java] [INFO] calculator.calculator power of -1.3 times 2.0
-17/04/2022:14;48;30 441 [calculator.java] [INFO] calculator.calculator RESULT= 1.6900000000000002
-17/04/2022:14;48;30 441 [calculator.java] [INFO] calculator.calculator power of -2.0 times 4.0
-17/04/2022:14;48;30 441 [calculator.java] [INFO] calculator.calculator RESULT= 16.0
-17/04/2022:14;48;30 442 [calculator.java] [INFO] calculator.calculator power of 3.0 times 3.0
-17/04/2022:14;48;30 442 [calculator.java] [INFO] calculator.calculator RESULT= 27.0
-17/04/2022:14;48;30 528 [calculator.java] [INFO] calculator.calculator factorial of 6.0
-17/04/2022:14;48;30 529 [calculator.java] [INFO] calculator.calculator result = 720.0
-17/04/2022:14;48;30 531 [calculator.java] [INFO] calculator.calculator factorial of 2.0
-17/04/2022:14;48;30 532 [calculator.java] [INFO] calculator.calculator result = 2.0
-17/04/2022:14;48;30 534 [calculator.java] [INFO] calculator.calculator factorial of 1.0
-17/04/2022:14;48;30 535 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;48;30 537 [calculator.java] [INFO] calculator.calculator factorial of 1.0
-17/04/2022:14;48;30 539 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;48;30 540 [calculator.java] [INFO] calculator.calculator factorial of 3.0
-17/04/2022:14;48;30 541 [calculator.java] [INFO] calculator.calculator result = 6.0
-17/04/2022:14;48;30 542 [calculator.java] [INFO] calculator.calculator factorial of 5.0
-17/04/2022:14;48;30 544 [calculator.java] [INFO] calculator.calculator result = 120.0
-17/04/2022:14;48;30 546 [calculator.java] [INFO] calculator.calculator square root of - 5.0
-17/04/2022:14;48;30 547 [calculator.java] [INFO] calculator.calculator result = 2.23606797749979
-17/04/2022:14;48;30 548 [calculator.java] [INFO] calculator.calculator square root of - 9.0
-17/04/2022:14;48;30 550 [calculator.java] [INFO] calculator.calculator result = 3.0
-17/04/2022:14;48;30 551 [calculator.java] [INFO] calculator.calculator square root of - 15.0
-17/04/2022:14;48;30 552 [calculator.java] [INFO] calculator.calculator result = 3.872983346207417
-17/04/2022:14;48;30 554 [calculator.java] [INFO] calculator.calculator square root of - 4.0
-17/04/2022:14;48;30 555 [calculator.java] [INFO] calculator.calculator result = 2.0
-17/04/2022:14;48;30 556 [calculator.java] [INFO] calculator.calculator square root of - 6.0
-17/04/2022:14;48;30 557 [calculator.java] [INFO] calculator.calculator result = 2.449489742783178
-17/04/2022:14;48;30 558 [calculator.java] [INFO] calculator.calculator square root of - 2.5
-17/04/2022:14;48;30 559 [calculator.java] [INFO] calculator.calculator result = 1.5811388300841898
-17/04/2022:14;48;30 560 [calculator.java] [INFO] calculator.calculator log of - 1.0
-17/04/2022:14;48;30 561 [calculator.java] [INFO] calculator.calculator result = 0.0
-17/04/2022:14;48;30 562 [calculator.java] [INFO] calculator.calculator log of - 20.0
-17/04/2022:14;48;30 563 [calculator.java] [INFO] calculator.calculator result = 2.995732273553991
-17/04/2022:14;48;30 565 [calculator.java] [INFO] calculator.calculator log of - 5.0
-17/04/2022:14;48;30 566 [calculator.java] [INFO] calculator.calculator result = 1.6094379124341003
-17/04/2022:14;48;30 567 [calculator.java] [INFO] calculator.calculator log of - 10.0
-17/04/2022:14;48;30 568 [calculator.java] [INFO] calculator.calculator result = 2.302585092994046
-17/04/2022:14;48;30 568 [calculator.java] [INFO] calculator.calculator log of - 1.0
-17/04/2022:14;48;30 569 [calculator.java] [INFO] calculator.calculator result = 0.0
-17/04/2022:14;48;30 571 [calculator.java] [INFO] calculator.calculator sum of -1.0,0.0
-17/04/2022:14;48;30 572 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;48;30 573 [calculator.java] [INFO] calculator.calculator sum of --0.3,2.0
-17/04/2022:14;48;30 574 [calculator.java] [INFO] calculator.calculator result = 1.7
-17/04/2022:14;48;30 575 [calculator.java] [INFO] calculator.calculator sum of --1.0,2.0
-17/04/2022:14;48;30 576 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;48;30 577 [calculator.java] [INFO] calculator.calculator sum of -0.0,1.0
-17/04/2022:14;48;30 578 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;48;30 579 [calculator.java] [INFO] calculator.calculator sum of -0.5,3.0
-17/04/2022:14;48;30 580 [calculator.java] [INFO] calculator.calculator result = 3.5
-17/04/2022:14;48;30 582 [calculator.java] [INFO] calculator.calculator sum of -0.4,14.0
-17/04/2022:14;48;30 583 [calculator.java] [INFO] calculator.calculator result = 14.4
-17/04/2022:14;48;30 584 [calculator.java] [INFO] calculator.calculator sum of -2.6,0.3
-17/04/2022:14;48;30 585 [calculator.java] [INFO] calculator.calculator result = 2.9
-17/04/2022:14;49;17 446 [calculator.java] [INFO] calculator.calculator power of 1.0 times 0.0
-17/04/2022:14;49;17 449 [calculator.java] [INFO] calculator.calculator RESULT= 1.0
-17/04/2022:14;49;17 449 [calculator.java] [INFO] calculator.calculator power of -1.3 times 2.0
-17/04/2022:14;49;17 449 [calculator.java] [INFO] calculator.calculator RESULT= 1.6900000000000002
-17/04/2022:14;49;17 449 [calculator.java] [INFO] calculator.calculator power of -2.0 times 4.0
-17/04/2022:14;49;17 450 [calculator.java] [INFO] calculator.calculator RESULT= 16.0
-17/04/2022:14;49;17 450 [calculator.java] [INFO] calculator.calculator power of 3.0 times 3.0
-17/04/2022:14;49;17 451 [calculator.java] [INFO] calculator.calculator RESULT= 27.0
-17/04/2022:14;49;17 451 [calculator.java] [INFO] calculator.calculator power of 0.5 times 4.0
-17/04/2022:14;49;17 451 [calculator.java] [INFO] calculator.calculator RESULT= 0.0625
-17/04/2022:14;49;17 451 [calculator.java] [INFO] calculator.calculator power of 1.4 times 2.4
-17/04/2022:14;49;17 451 [calculator.java] [INFO] calculator.calculator RESULT= 2.2423700574830967
-17/04/2022:14;49;17 452 [calculator.java] [INFO] calculator.calculator power of 5.6 times 0.3
-17/04/2022:14;49;17 452 [calculator.java] [INFO] calculator.calculator RESULT= 1.676704029719738
-17/04/2022:14;49;17 452 [calculator.java] [INFO] calculator.calculator factorial of 6.0
-17/04/2022:14;49;17 452 [calculator.java] [INFO] calculator.calculator result = 720.0
-17/04/2022:14;49;17 453 [calculator.java] [INFO] calculator.calculator factorial of 2.0
-17/04/2022:14;49;17 453 [calculator.java] [INFO] calculator.calculator result = 2.0
-17/04/2022:14;49;17 453 [calculator.java] [INFO] calculator.calculator factorial of 1.0
-17/04/2022:14;49;17 454 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;49;17 454 [calculator.java] [INFO] calculator.calculator factorial of 1.0
-17/04/2022:14;49;17 454 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;49;17 455 [calculator.java] [INFO] calculator.calculator factorial of 3.0
-17/04/2022:14;49;17 455 [calculator.java] [INFO] calculator.calculator result = 6.0
-17/04/2022:14;49;17 456 [calculator.java] [INFO] calculator.calculator factorial of 5.0
-17/04/2022:14;49;17 456 [calculator.java] [INFO] calculator.calculator result = 120.0
-17/04/2022:14;49;17 457 [calculator.java] [INFO] calculator.calculator square root of - 5.0
-17/04/2022:14;49;17 457 [calculator.java] [INFO] calculator.calculator result = 2.23606797749979
-17/04/2022:14;49;17 457 [calculator.java] [INFO] calculator.calculator square root of - 9.0
-17/04/2022:14;49;17 458 [calculator.java] [INFO] calculator.calculator result = 3.0
-17/04/2022:14;49;17 458 [calculator.java] [INFO] calculator.calculator square root of - 15.0
-17/04/2022:14;49;17 459 [calculator.java] [INFO] calculator.calculator result = 3.872983346207417
-17/04/2022:14;49;17 459 [calculator.java] [INFO] calculator.calculator square root of - 4.0
-17/04/2022:14;49;17 460 [calculator.java] [INFO] calculator.calculator result = 2.0
-17/04/2022:14;49;17 460 [calculator.java] [INFO] calculator.calculator square root of - 6.0
-17/04/2022:14;49;17 460 [calculator.java] [INFO] calculator.calculator result = 2.449489742783178
-17/04/2022:14;49;17 460 [calculator.java] [INFO] calculator.calculator square root of - 2.5
-17/04/2022:14;49;17 461 [calculator.java] [INFO] calculator.calculator result = 1.5811388300841898
-17/04/2022:14;49;17 461 [calculator.java] [INFO] calculator.calculator log of - 1.0
-17/04/2022:14;49;17 461 [calculator.java] [INFO] calculator.calculator result = 0.0
-17/04/2022:14;49;17 462 [calculator.java] [INFO] calculator.calculator log of - 20.0
-17/04/2022:14;49;17 462 [calculator.java] [INFO] calculator.calculator result = 2.995732273553991
-17/04/2022:14;49;17 463 [calculator.java] [INFO] calculator.calculator log of - 5.0
-17/04/2022:14;49;17 463 [calculator.java] [INFO] calculator.calculator result = 1.6094379124341003
-17/04/2022:14;49;17 463 [calculator.java] [INFO] calculator.calculator log of - 10.0
-17/04/2022:14;49;17 463 [calculator.java] [INFO] calculator.calculator result = 2.302585092994046
-17/04/2022:14;49;17 464 [calculator.java] [INFO] calculator.calculator log of - 1.0
-17/04/2022:14;49;17 464 [calculator.java] [INFO] calculator.calculator result = 0.0
-17/04/2022:14;49;17 464 [calculator.java] [INFO] calculator.calculator sum of -1.0,0.0
-17/04/2022:14;49;17 464 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;49;17 465 [calculator.java] [INFO] calculator.calculator sum of --0.3,2.0
-17/04/2022:14;49;17 465 [calculator.java] [INFO] calculator.calculator result = 1.7
-17/04/2022:14;49;17 465 [calculator.java] [INFO] calculator.calculator sum of --1.0,2.0
-17/04/2022:14;49;17 465 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;49;17 466 [calculator.java] [INFO] calculator.calculator sum of -0.0,1.0
-17/04/2022:14;49;17 466 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;49;17 466 [calculator.java] [INFO] calculator.calculator sum of -0.5,3.0
-17/04/2022:14;49;17 467 [calculator.java] [INFO] calculator.calculator result = 3.5
-17/04/2022:14;49;17 467 [calculator.java] [INFO] calculator.calculator sum of -0.4,14.0
-17/04/2022:14;49;17 467 [calculator.java] [INFO] calculator.calculator result = 14.4
-17/04/2022:14;49;17 467 [calculator.java] [INFO] calculator.calculator sum of -2.6,0.3
-17/04/2022:14;49;17 467 [calculator.java] [INFO] calculator.calculator result = 2.9
-17/04/2022:14;49;50 654 [calculator.java] [INFO] calculator.calculator power of 1.0 times 0.0
-17/04/2022:14;49;50 657 [calculator.java] [INFO] calculator.calculator RESULT= 1.0
-17/04/2022:14;49;50 657 [calculator.java] [INFO] calculator.calculator power of -1.3 times 2.0
-17/04/2022:14;49;50 657 [calculator.java] [INFO] calculator.calculator RESULT= 1.6900000000000002
-17/04/2022:14;49;50 658 [calculator.java] [INFO] calculator.calculator power of -2.0 times 4.0
-17/04/2022:14;49;50 658 [calculator.java] [INFO] calculator.calculator RESULT= 16.0
-17/04/2022:14;49;50 659 [calculator.java] [INFO] calculator.calculator power of 3.0 times 3.0
-17/04/2022:14;49;50 659 [calculator.java] [INFO] calculator.calculator RESULT= 27.0
-17/04/2022:14;49;50 659 [calculator.java] [INFO] calculator.calculator power of 0.5 times 4.0
-17/04/2022:14;49;50 660 [calculator.java] [INFO] calculator.calculator RESULT= 0.0625
-17/04/2022:14;49;50 660 [calculator.java] [INFO] calculator.calculator power of 1.4 times 2.4
-17/04/2022:14;49;50 660 [calculator.java] [INFO] calculator.calculator RESULT= 2.2423700574830967
-17/04/2022:14;49;50 660 [calculator.java] [INFO] calculator.calculator power of 5.6 times 0.3
-17/04/2022:14;49;50 661 [calculator.java] [INFO] calculator.calculator RESULT= 1.676704029719738
-17/04/2022:14;49;50 661 [calculator.java] [INFO] calculator.calculator factorial of 6.0
-17/04/2022:14;49;50 661 [calculator.java] [INFO] calculator.calculator result = 720.0
-17/04/2022:14;49;50 661 [calculator.java] [INFO] calculator.calculator factorial of 2.0
-17/04/2022:14;49;50 662 [calculator.java] [INFO] calculator.calculator result = 2.0
-17/04/2022:14;49;50 662 [calculator.java] [INFO] calculator.calculator factorial of 1.0
-17/04/2022:14;49;50 662 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;49;50 662 [calculator.java] [INFO] calculator.calculator factorial of 1.0
-17/04/2022:14;49;50 663 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;49;50 663 [calculator.java] [INFO] calculator.calculator factorial of 3.0
-17/04/2022:14;49;50 663 [calculator.java] [INFO] calculator.calculator result = 6.0
-17/04/2022:14;49;50 663 [calculator.java] [INFO] calculator.calculator factorial of 5.0
-17/04/2022:14;49;50 664 [calculator.java] [INFO] calculator.calculator result = 120.0
-17/04/2022:14;49;50 664 [calculator.java] [INFO] calculator.calculator square root of - 5.0
-17/04/2022:14;49;50 664 [calculator.java] [INFO] calculator.calculator result = 2.23606797749979
-17/04/2022:14;49;50 665 [calculator.java] [INFO] calculator.calculator square root of - 9.0
-17/04/2022:14;49;50 665 [calculator.java] [INFO] calculator.calculator result = 3.0
-17/04/2022:14;49;50 665 [calculator.java] [INFO] calculator.calculator square root of - 15.0
-17/04/2022:14;49;50 666 [calculator.java] [INFO] calculator.calculator result = 3.872983346207417
-17/04/2022:14;49;50 666 [calculator.java] [INFO] calculator.calculator square root of - 4.0
-17/04/2022:14;49;50 667 [calculator.java] [INFO] calculator.calculator result = 2.0
-17/04/2022:14;49;50 667 [calculator.java] [INFO] calculator.calculator square root of - 6.0
-17/04/2022:14;49;50 667 [calculator.java] [INFO] calculator.calculator result = 2.449489742783178
-17/04/2022:14;49;50 668 [calculator.java] [INFO] calculator.calculator square root of - 2.5
-17/04/2022:14;49;50 668 [calculator.java] [INFO] calculator.calculator result = 1.5811388300841898
-17/04/2022:14;49;50 669 [calculator.java] [INFO] calculator.calculator log of - 1.0
-17/04/2022:14;49;50 669 [calculator.java] [INFO] calculator.calculator result = 0.0
-17/04/2022:14;49;50 669 [calculator.java] [INFO] calculator.calculator log of - 20.0
-17/04/2022:14;49;50 669 [calculator.java] [INFO] calculator.calculator result = 2.995732273553991
-17/04/2022:14;49;50 670 [calculator.java] [INFO] calculator.calculator log of - 5.0
-17/04/2022:14;49;50 670 [calculator.java] [INFO] calculator.calculator result = 1.6094379124341003
-17/04/2022:14;49;50 671 [calculator.java] [INFO] calculator.calculator log of - 10.0
-17/04/2022:14;49;50 671 [calculator.java] [INFO] calculator.calculator result = 2.302585092994046
-17/04/2022:14;49;50 671 [calculator.java] [INFO] calculator.calculator log of - 1.0
-17/04/2022:14;49;50 671 [calculator.java] [INFO] calculator.calculator result = 0.0
-17/04/2022:14;49;50 672 [calculator.java] [INFO] calculator.calculator sum of -1.0,0.0
-17/04/2022:14;49;50 672 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;49;50 672 [calculator.java] [INFO] calculator.calculator sum of --0.3,2.0
-17/04/2022:14;49;50 673 [calculator.java] [INFO] calculator.calculator result = 1.7
-17/04/2022:14;49;50 673 [calculator.java] [INFO] calculator.calculator sum of --1.0,2.0
-17/04/2022:14;49;50 673 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;49;50 674 [calculator.java] [INFO] calculator.calculator sum of -0.0,1.0
-17/04/2022:14;49;50 674 [calculator.java] [INFO] calculator.calculator result = 1.0
-17/04/2022:14;49;50 674 [calculator.java] [INFO] calculator.calculator sum of -0.5,3.0
-17/04/2022:14;49;50 675 [calculator.java] [INFO] calculator.calculator result = 3.5
-17/04/2022:14;49;50 675 [calculator.java] [INFO] calculator.calculator sum of -0.4,14.0
-17/04/2022:14;49;50 675 [calculator.java] [INFO] calculator.calculator result = 14.4
-17/04/2022:14;49;50 675 [calculator.java] [INFO] calculator.calculator sum of -2.6,0.3
-17/04/2022:14;49;50 675 [calculator.java] [INFO] calculator.calculator result = 2.9
+17/04/2022:18;13;22 020 [calculator.java] [INFO] calculator.calculator power of 1.0 times 0.0
+17/04/2022:18;13;22 024 [calculator.java] [INFO] calculator.calculator RESULT= 1.0
+17/04/2022:18;13;22 024 [calculator.java] [INFO] calculator.calculator power of -1.3 times 2.0
+17/04/2022:18;13;22 024 [calculator.java] [INFO] calculator.calculator RESULT= 1.6900000000000002
+17/04/2022:18;13;22 025 [calculator.java] [INFO] calculator.calculator power of -2.0 times 4.0
+17/04/2022:18;13;22 025 [calculator.java] [INFO] calculator.calculator RESULT= 16.0
+17/04/2022:18;13;22 026 [calculator.java] [INFO] calculator.calculator power of 3.0 times 3.0
+17/04/2022:18;13;22 026 [calculator.java] [INFO] calculator.calculator RESULT= 27.0
+17/04/2022:18;13;22 027 [calculator.java] [INFO] calculator.calculator power of 0.5 times 4.0
+17/04/2022:18;13;22 027 [calculator.java] [INFO] calculator.calculator RESULT= 0.0625
+17/04/2022:18;13;22 028 [calculator.java] [INFO] calculator.calculator power of 1.4 times 2.4
+17/04/2022:18;13;22 028 [calculator.java] [INFO] calculator.calculator RESULT= 2.2423700574830967
+17/04/2022:18;13;22 028 [calculator.java] [INFO] calculator.calculator power of 5.6 times 0.3
+17/04/2022:18;13;22 029 [calculator.java] [INFO] calculator.calculator RESULT= 1.676704029719738
+17/04/2022:18;13;22 029 [calculator.java] [INFO] calculator.calculator factorial of 6.0
+17/04/2022:18;13;22 030 [calculator.java] [INFO] calculator.calculator result = 720.0
+17/04/2022:18;13;22 030 [calculator.java] [INFO] calculator.calculator factorial of 2.0
+17/04/2022:18;13;22 031 [calculator.java] [INFO] calculator.calculator result = 2.0
+17/04/2022:18;13;22 031 [calculator.java] [INFO] calculator.calculator factorial of 1.0
+17/04/2022:18;13;22 031 [calculator.java] [INFO] calculator.calculator result = 1.0
+17/04/2022:18;13;22 032 [calculator.java] [INFO] calculator.calculator factorial of 1.0
+17/04/2022:18;13;22 032 [calculator.java] [INFO] calculator.calculator result = 1.0
+17/04/2022:18;13;22 033 [calculator.java] [INFO] calculator.calculator factorial of 3.0
+17/04/2022:18;13;22 033 [calculator.java] [INFO] calculator.calculator result = 6.0
+17/04/2022:18;13;22 033 [calculator.java] [INFO] calculator.calculator factorial of 5.0
+17/04/2022:18;13;22 034 [calculator.java] [INFO] calculator.calculator result = 120.0
+17/04/2022:18;13;22 034 [calculator.java] [INFO] calculator.calculator square root of - 5.0
+17/04/2022:18;13;22 035 [calculator.java] [INFO] calculator.calculator result = 2.23606797749979
+17/04/2022:18;13;22 035 [calculator.java] [INFO] calculator.calculator square root of - 9.0
+17/04/2022:18;13;22 035 [calculator.java] [INFO] calculator.calculator result = 3.0
+17/04/2022:18;13;22 036 [calculator.java] [INFO] calculator.calculator square root of - 15.0
+17/04/2022:18;13;22 036 [calculator.java] [INFO] calculator.calculator result = 3.872983346207417
+17/04/2022:18;13;22 037 [calculator.java] [INFO] calculator.calculator square root of - 4.0
+17/04/2022:18;13;22 038 [calculator.java] [INFO] calculator.calculator result = 2.0
+17/04/2022:18;13;22 038 [calculator.java] [INFO] calculator.calculator square root of - 6.0
+17/04/2022:18;13;22 038 [calculator.java] [INFO] calculator.calculator result = 2.449489742783178
+17/04/2022:18;13;22 039 [calculator.java] [INFO] calculator.calculator square root of - 2.5
+17/04/2022:18;13;22 039 [calculator.java] [INFO] calculator.calculator result = 1.5811388300841898
+17/04/2022:18;13;22 040 [calculator.java] [INFO] calculator.calculator log of - 1.0
+17/04/2022:18;13;22 040 [calculator.java] [INFO] calculator.calculator result = 0.0
+17/04/2022:18;13;22 041 [calculator.java] [INFO] calculator.calculator log of - 20.0
+17/04/2022:18;13;22 041 [calculator.java] [INFO] calculator.calculator result = 2.995732273553991
+17/04/2022:18;13;22 042 [calculator.java] [INFO] calculator.calculator log of - 5.0
+17/04/2022:18;13;22 042 [calculator.java] [INFO] calculator.calculator result = 1.6094379124341003
+17/04/2022:18;13;22 042 [calculator.java] [INFO] calculator.calculator log of - 10.0
+17/04/2022:18;13;22 043 [calculator.java] [INFO] calculator.calculator result = 2.302585092994046
+17/04/2022:18;13;22 043 [calculator.java] [INFO] calculator.calculator log of - 1.0
+17/04/2022:18;13;22 043 [calculator.java] [INFO] calculator.calculator result = 0.0
+17/04/2022:18;13;22 044 [calculator.java] [INFO] calculator.calculator sum of -1.0,0.0
+17/04/2022:18;13;22 044 [calculator.java] [INFO] calculator.calculator result = 1.0
+17/04/2022:18;13;22 044 [calculator.java] [INFO] calculator.calculator sum of --0.3,2.0
+17/04/2022:18;13;22 045 [calculator.java] [INFO] calculator.calculator result = 1.7
+17/04/2022:18;13;22 045 [calculator.java] [INFO] calculator.calculator sum of --1.0,2.0
+17/04/2022:18;13;22 045 [calculator.java] [INFO] calculator.calculator result = 1.0
+17/04/2022:18;13;22 046 [calculator.java] [INFO] calculator.calculator sum of -0.0,1.0
+17/04/2022:18;13;22 046 [calculator.java] [INFO] calculator.calculator result = 1.0
+17/04/2022:18;13;22 046 [calculator.java] [INFO] calculator.calculator sum of -0.5,3.0
+17/04/2022:18;13;22 047 [calculator.java] [INFO] calculator.calculator result = 3.5
+17/04/2022:18;13;22 047 [calculator.java] [INFO] calculator.calculator sum of -0.4,14.0
+17/04/2022:18;13;22 047 [calculator.java] [INFO] calculator.calculator result = 14.4
+17/04/2022:18;13;22 048 [calculator.java] [INFO] calculator.calculator sum of -2.6,0.3
+17/04/2022:18;13;22 048 [calculator.java] [INFO] calculator.calculator result = 2.9
+18/04/2022:13;46;40 494 [calculator.java] [INFO] calculator.calculator power of 1.0 times 0.0
+18/04/2022:13;46;40 497 [calculator.java] [INFO] calculator.calculator RESULT= 1.0
+18/04/2022:13;46;40 497 [calculator.java] [INFO] calculator.calculator power of -1.3 times 2.0
+18/04/2022:13;46;40 498 [calculator.java] [INFO] calculator.calculator RESULT= 1.6900000000000002
+18/04/2022:13;46;40 498 [calculator.java] [INFO] calculator.calculator power of -2.0 times 4.0
+18/04/2022:13;46;40 498 [calculator.java] [INFO] calculator.calculator RESULT= 16.0
+18/04/2022:13;46;40 499 [calculator.java] [INFO] calculator.calculator power of 3.0 times 3.0
+18/04/2022:13;46;40 499 [calculator.java] [INFO] calculator.calculator RESULT= 27.0
+18/04/2022:13;46;40 500 [calculator.java] [INFO] calculator.calculator power of 0.5 times 4.0
+18/04/2022:13;46;40 500 [calculator.java] [INFO] calculator.calculator RESULT= 0.0625
+18/04/2022:13;46;40 500 [calculator.java] [INFO] calculator.calculator power of 1.4 times 2.4
+18/04/2022:13;46;40 500 [calculator.java] [INFO] calculator.calculator RESULT= 2.2423700574830967
+18/04/2022:13;46;40 500 [calculator.java] [INFO] calculator.calculator power of 5.6 times 0.3
+18/04/2022:13;46;40 501 [calculator.java] [INFO] calculator.calculator RESULT= 1.676704029719738
+18/04/2022:13;46;40 501 [calculator.java] [INFO] calculator.calculator factorial of 6.0
+18/04/2022:13;46;40 501 [calculator.java] [INFO] calculator.calculator result = 720.0
+18/04/2022:13;46;40 502 [calculator.java] [INFO] calculator.calculator factorial of 2.0
+18/04/2022:13;46;40 502 [calculator.java] [INFO] calculator.calculator result = 2.0
+18/04/2022:13;46;40 502 [calculator.java] [INFO] calculator.calculator factorial of 1.0
+18/04/2022:13;46;40 502 [calculator.java] [INFO] calculator.calculator result = 1.0
+18/04/2022:13;46;40 502 [calculator.java] [INFO] calculator.calculator factorial of 1.0
+18/04/2022:13;46;40 503 [calculator.java] [INFO] calculator.calculator result = 1.0
+18/04/2022:13;46;40 503 [calculator.java] [INFO] calculator.calculator factorial of 3.0
+18/04/2022:13;46;40 503 [calculator.java] [INFO] calculator.calculator result = 6.0
+18/04/2022:13;46;40 503 [calculator.java] [INFO] calculator.calculator factorial of 5.0
+18/04/2022:13;46;40 503 [calculator.java] [INFO] calculator.calculator result = 120.0
+18/04/2022:13;46;40 504 [calculator.java] [INFO] calculator.calculator square root of - 5.0
+18/04/2022:13;46;40 504 [calculator.java] [INFO] calculator.calculator result = 2.23606797749979
+18/04/2022:13;46;40 504 [calculator.java] [INFO] calculator.calculator square root of - 9.0
+18/04/2022:13;46;40 504 [calculator.java] [INFO] calculator.calculator result = 3.0
+18/04/2022:13;46;40 505 [calculator.java] [INFO] calculator.calculator square root of - 15.0
+18/04/2022:13;46;40 505 [calculator.java] [INFO] calculator.calculator result = 3.872983346207417
+18/04/2022:13;46;40 505 [calculator.java] [INFO] calculator.calculator square root of - 4.0
+18/04/2022:13;46;40 505 [calculator.java] [INFO] calculator.calculator result = 2.0
+18/04/2022:13;46;40 506 [calculator.java] [INFO] calculator.calculator square root of - 6.0
+18/04/2022:13;46;40 506 [calculator.java] [INFO] calculator.calculator result = 2.449489742783178
+18/04/2022:13;46;40 506 [calculator.java] [INFO] calculator.calculator square root of - 2.5
+18/04/2022:13;46;40 506 [calculator.java] [INFO] calculator.calculator result = 1.5811388300841898
+18/04/2022:13;46;40 506 [calculator.java] [INFO] calculator.calculator log of - 1.0
+18/04/2022:13;46;40 507 [calculator.java] [INFO] calculator.calculator result = 0.0
+18/04/2022:13;46;40 507 [calculator.java] [INFO] calculator.calculator log of - 20.0
+18/04/2022:13;46;40 507 [calculator.java] [INFO] calculator.calculator result = 2.995732273553991
+18/04/2022:13;46;40 507 [calculator.java] [INFO] calculator.calculator log of - 5.0
+18/04/2022:13;46;40 508 [calculator.java] [INFO] calculator.calculator result = 1.6094379124341003
+18/04/2022:13;46;40 508 [calculator.java] [INFO] calculator.calculator log of - 10.0
+18/04/2022:13;46;40 508 [calculator.java] [INFO] calculator.calculator result = 2.302585092994046
+18/04/2022:13;46;40 508 [calculator.java] [INFO] calculator.calculator log of - 1.0
+18/04/2022:13;46;40 508 [calculator.java] [INFO] calculator.calculator result = 0.0
+18/04/2022:13;46;40 509 [calculator.java] [INFO] calculator.calculator sum of -1.0,0.0
+18/04/2022:13;46;40 509 [calculator.java] [INFO] calculator.calculator result = 1.0
+18/04/2022:13;46;40 509 [calculator.java] [INFO] calculator.calculator sum of --0.3,2.0
+18/04/2022:13;46;40 509 [calculator.java] [INFO] calculator.calculator result = 1.7
+18/04/2022:13;46;40 510 [calculator.java] [INFO] calculator.calculator sum of --1.0,2.0
+18/04/2022:13;46;40 510 [calculator.java] [INFO] calculator.calculator result = 1.0
+18/04/2022:13;46;40 511 [calculator.java] [INFO] calculator.calculator sum of -0.0,1.0
+18/04/2022:13;46;40 511 [calculator.java] [INFO] calculator.calculator result = 1.0
+18/04/2022:13;46;40 511 [calculator.java] [INFO] calculator.calculator sum of -0.5,3.0
+18/04/2022:13;46;40 511 [calculator.java] [INFO] calculator.calculator result = 3.5
+18/04/2022:13;46;40 512 [calculator.java] [INFO] calculator.calculator sum of -0.4,14.0
+18/04/2022:13;46;40 512 [calculator.java] [INFO] calculator.calculator result = 14.4
+18/04/2022:13;46;40 512 [calculator.java] [INFO] calculator.calculator sum of -2.6,0.3
+18/04/2022:13;46;40 513 [calculator.java] [INFO] calculator.calculator result = 2.9

@@ -1,6 +1,6 @@
 ---
 - name: Deploy docker img
-  hosts: all
+  hosts: localhost
   tasks:
     - name: Pull dev-cal image
       docker_image:
